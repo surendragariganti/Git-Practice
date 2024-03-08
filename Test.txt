@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Matter ledhu ra
+=======
 Matter Nill ra babu
 ushhhhh
+>>>>>>> origin/master
